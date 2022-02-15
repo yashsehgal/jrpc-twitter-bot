@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "needle": "^3.0.0",
+    "twitter-api-client": "^1.5.2",
+    "uuid": "^8.3.2"
+  },
+  "name": "jrpc-twitter-bot",
+  "description": "Twitter bot to manage activities related to #justrelaxpeople challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsehgal/jrpc-twitter-bot.git"
+  },
+  "keywords": [
+    "twitter-bot",
+    "justrelaxpeople"
+  ],
+  "author": "yashsehgal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashsehgal/jrpc-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/yashsehgal/jrpc-twitter-bot#readme"
+}
